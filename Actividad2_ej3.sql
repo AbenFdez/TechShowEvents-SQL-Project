@@ -1,3 +1,11 @@
+-- ===============================================================
+-- Actividad 2 - Pregunta 2 (UOC - Bases de Datos para DWH)
+-- Consultas SQL para recuperar información de la BBDD creada.
+-- Contiene las consultas a los apartados a), b) y c) del enunciado.
+-- ===============================================================
+
+
+
 -- A) Añadir columna y actualizar valores
 ALTER TABLE erp.tb_event
 ADD COLUMN catering_cost_guest NUMERIC(6,2) CHECK (catering_cost_guest >= 0);
