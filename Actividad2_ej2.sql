@@ -1,3 +1,8 @@
+-- ===============================================================
+-- Actividad 2 - Pregunta 2 (UOC - Bases de Datos para DWH)
+-- Consultas SQL para recuperar información de la BBDD creada.
+-- Contiene las consultas a los apartados a), b) y c) del enunciado.
+-- ===============================================================
 -- -----------------------------------------------
 -- Script para la Pregunta 2 - Actividad 2
 -- -----------------------------------------------
