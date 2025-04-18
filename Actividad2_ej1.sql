@@ -1,3 +1,9 @@
+-- ===============================================================
+-- Actividad 2 - Pregunta 1 (UOC - Bases de Datos para DWH)
+-- Creación del esquema `erp` y de las tablas necesarias:
+-- tb_guest_type, tb_guest, tb_event, tb_event_guest, tb_access_log
+-- Incluye estructura, claves primarias y foráneas según enunciado.
+-- ===============================================================
 -- -----------------------------------------------
 -- Script para la Pregunta 1 - Actividad 2
 -- -----------------------------------------------
